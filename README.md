@@ -29,6 +29,7 @@ Step-1:- git init
 ## Features:-
  * Sign in / Signup (using JWT & Bcrypt)
  * Provided Dashboard
+ * Logout (JWT remove)
  * Fully responsive website
 
 
